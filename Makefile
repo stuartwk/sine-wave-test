@@ -1,8 +1,8 @@
 # Project Name
-TARGET = SeedTemplate
+TARGET = SineWave
 
 # Sources
-CPP_SOURCES = SeedTemplate.cpp
+CPP_SOURCES = SineWave.cpp
 
 # Library Locations
 LIBS_DIR := libs
